@@ -1,2 +1,2 @@
 # latexFAQ
-记录一下我在使用latex时遇到的一些问题以及相应的解决办法。可以访问这里<a href='https://jiandandaoxingfu.github.io/latexFAQ/'>latexFAQ</a>
+记录一下我在使用latex时遇到的一些问题以及相应的解决办法,不断更新中。可以访问这里<a href='https://jiandandaoxingfu.github.io/latexFAQ/'>latexFAQ</a>
